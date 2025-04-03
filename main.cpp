@@ -1,3 +1,4 @@
+//comment by huzefa
 #include<iostream>
 using namespace std;
 // Function prototypes 
