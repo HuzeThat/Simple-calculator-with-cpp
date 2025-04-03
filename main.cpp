@@ -44,3 +44,7 @@ int add(int a, int b) {
 int subtract(int a, int b) { 
     return a - b; 
 }
+// this is deone by Dibora
+int multiply(int a, int b) {
+    return a * b;
+    }
