@@ -40,11 +40,19 @@ int main() {
 int add(int a, int b) { 
     return a + b; 
 }
-//this is deone by Yared.
+//this is done by Yared.
 int subtract(int a, int b) { 
     return a - b; 
 }
-// this is deone by Dibora
+// this is done by Dibora
 int multiply(int a, int b) {
     return a * b;
+    }
+//this is done by huzefa
+int divide(int a, int b) { 
+        if (b == 0) { 
+            cout << "Error: Division by zero!" << endl; 
+            return 0; 
+        } 
+        return a / b; 
     }
