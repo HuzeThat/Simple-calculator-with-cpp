@@ -1,4 +1,4 @@
-// single comment by Dibora and Efrata
+// single comment by Dibora ,Yared and Efrata 
 #include<iostream>
 using namespace std;
 // Function prototypes 
