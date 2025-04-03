@@ -40,3 +40,7 @@ int main() {
 int add(int a, int b) { 
     return a + b; 
 }
+//this is deone by Yared.
+int subtract(int a, int b) { 
+    return a - b; 
+}
